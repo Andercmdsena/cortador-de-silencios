@@ -1,0 +1,7 @@
+# Motor: detección de voz (Silero VAD, incluido en faster-whisper), lectura de video y Whisper
+faster-whisper==1.2.1
+av>=15.1
+numpy>=2.0
+# Ventana y reproducción
+customtkinter==5.2.2
+sounddevice>=0.5

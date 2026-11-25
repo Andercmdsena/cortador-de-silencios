@@ -1,0 +1,20 @@
+# Entorno y compilación
+.venv/
+venv/
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Datos privados de las pruebas (audio y transcripciones del autor)
+pruebas/locales/
+
+# Lo que el programa genera junto a los videos
+*_pistas/
+*.fcpxml
+*.edl
+
+# Modelos y registros locales
+modelo-small/
+modelos/
+*.log
